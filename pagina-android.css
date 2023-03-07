@@ -21,7 +21,7 @@
 }
 
 body {
-    background-color: #E8E5C2;
+    background-color: var(--cor6);
 }
 
 nav {
